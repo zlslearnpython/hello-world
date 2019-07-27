@@ -5,11 +5,11 @@ from 0 to 0.5
 
 things actually gose like...
 
--has no idea of"VPN"
+- has no idea of"VPN"
 
--confusing of the download speed of "Anaconda" (5 more hours)
+- confusing of the download speed of "Anaconda" (5 more hours)
 
--Keep asking some super easy questions(everyone knows except me)
+- Keep asking some super easy questions(everyone knows except me)
 
 but, in a word:
 
